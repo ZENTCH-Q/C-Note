@@ -3,6 +3,8 @@
 ## Overview
 C-Note is a secure and user-friendly note-taking application built with PyQt5. It allows users to create, edit, and encrypt notes with optional password protection. The application provides a clean, neumorphic UI with various customization options.
 
+![Image](https://github.com/user-attachments/assets/11493b23-9105-4eec-86f8-8d0501835b04)
+
 ## Features
 - **Secure Notes**: Encrypts and decrypts notes using the Cryptography library.
 - **Password Protection**: Optional password authentication for accessing notes.
